@@ -358,6 +358,12 @@ li {
 
 #about .link-list li a {
   color: #333;
+  font-size: 20px;
+  transition: 0.3s;
+}
+#about .link-list li a:hover{
+  color: #AAA;
+  /* font-size: 24px; */
 }
 
 #about .link-list li img {
