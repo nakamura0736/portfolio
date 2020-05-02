@@ -193,6 +193,9 @@ li {
   padding: 0 24px;
   letter-spacing: .05em;
 }
+#gnav li a:hover {
+  color:#AAA;
+}
 
 #gnav li a {
   position: relative;
